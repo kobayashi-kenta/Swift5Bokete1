@@ -36,6 +36,8 @@ class ViewController: UIViewController {
                 case .limited :break
                 case .notDetermined :break
                 case.restricted :break
+             default:
+                print("エラーです")
             }
         }
         getImages(keyword: "funny")

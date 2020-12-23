@@ -8,7 +8,7 @@ target 'Swift5Bokete1' do
   # Pods for Swift5Bokete1
 
 pod 'SwiftyJSON'
-pod 'Alamofire', '~> 5.0.0-beta.5'
+pod 'Alamofire', '~> 5.0'
 pod 'SDWebImage'
 
 end
